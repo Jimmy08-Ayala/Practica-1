@@ -1,0 +1,7 @@
+C:\Users\jimmy\Desktop\Arcides\Coche\Coche\obj\Debug\Coche.csproj.AssemblyReference.cache
+C:\Users\jimmy\Desktop\Arcides\Coche\Coche\obj\Debug\Coche.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\Arcides\Coche\Coche\bin\Debug\Coche.exe.config
+C:\Users\jimmy\Desktop\Arcides\Coche\Coche\bin\Debug\Coche.exe
+C:\Users\jimmy\Desktop\Arcides\Coche\Coche\bin\Debug\Coche.pdb
+C:\Users\jimmy\Desktop\Arcides\Coche\Coche\obj\Debug\Coche.exe
+C:\Users\jimmy\Desktop\Arcides\Coche\Coche\obj\Debug\Coche.pdb
