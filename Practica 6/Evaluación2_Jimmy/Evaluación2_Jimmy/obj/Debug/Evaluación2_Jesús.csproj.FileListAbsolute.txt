@@ -1,0 +1,20 @@
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\bin\Debug\Evaluación2_Jesús.exe.config
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\bin\Debug\Evaluación2_Jesús.exe
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\bin\Debug\Evaluación2_Jesús.pdb
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.csproj.AssemblyReference.cache
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.Form1.resources
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.Properties.Resources.resources
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.csproj.GenerateResource.cache
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.exe
+C:\Users\ANGEL\Desktop\USB\5136099\ejercicios5136099\PeriodoIII\Práctica_6\Ejercicios\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.pdb
+C:\Users\jimmy\Desktop\practica 6\Evaluación2_Jesús\Evaluación2_Jesús\bin\Debug\Evaluación2_Jesús.exe.config
+C:\Users\jimmy\Desktop\practica 6\Evaluación2_Jesús\Evaluación2_Jesús\bin\Debug\Evaluación2_Jesús.exe
+C:\Users\jimmy\Desktop\practica 6\Evaluación2_Jesús\Evaluación2_Jesús\bin\Debug\Evaluación2_Jesús.pdb
+C:\Users\jimmy\Desktop\practica 6\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.csproj.AssemblyReference.cache
+C:\Users\jimmy\Desktop\practica 6\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.Form1.resources
+C:\Users\jimmy\Desktop\practica 6\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.Properties.Resources.resources
+C:\Users\jimmy\Desktop\practica 6\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.csproj.GenerateResource.cache
+C:\Users\jimmy\Desktop\practica 6\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\practica 6\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.exe
+C:\Users\jimmy\Desktop\practica 6\Evaluación2_Jesús\Evaluación2_Jesús\obj\Debug\Evaluación2_Jesús.pdb
