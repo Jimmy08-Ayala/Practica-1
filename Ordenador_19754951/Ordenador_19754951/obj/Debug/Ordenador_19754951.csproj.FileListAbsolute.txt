@@ -1,0 +1,7 @@
+C:\Users\jimmy\Desktop\Arcides\Ordenador_19754951\Ordenador_19754951\bin\Debug\Ordenador_19754951.exe.config
+C:\Users\jimmy\Desktop\Arcides\Ordenador_19754951\Ordenador_19754951\bin\Debug\Ordenador_19754951.exe
+C:\Users\jimmy\Desktop\Arcides\Ordenador_19754951\Ordenador_19754951\bin\Debug\Ordenador_19754951.pdb
+C:\Users\jimmy\Desktop\Arcides\Ordenador_19754951\Ordenador_19754951\obj\Debug\Ordenador_19754951.csproj.AssemblyReference.cache
+C:\Users\jimmy\Desktop\Arcides\Ordenador_19754951\Ordenador_19754951\obj\Debug\Ordenador_19754951.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\Arcides\Ordenador_19754951\Ordenador_19754951\obj\Debug\Ordenador_19754951.exe
+C:\Users\jimmy\Desktop\Arcides\Ordenador_19754951\Ordenador_19754951\obj\Debug\Ordenador_19754951.pdb
